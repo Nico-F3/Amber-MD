@@ -1,3 +1,7 @@
+This repostiroy will work with Amber-MD results and at the same time will helps to learn how to process data with python modules
+such as numpy, pandas and MDanalysis
+Graph will be done primaraly with mathplotlib and some with bokeh
+-----------------------------------------------------------------------------
 To set up the VScode as the text editor I follow the command line:
 git config --global core.editor "code --wait"
 from the source: https://help.github.com/en/github/using-git/associating-text-editors-with-git
